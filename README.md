@@ -24,4 +24,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
