@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0066-plus-one) |
 ## Array
 |  |
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
