@@ -22,6 +22,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +39,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
