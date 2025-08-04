@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -34,11 +35,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0190-reverse-bits) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -48,4 +51,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
