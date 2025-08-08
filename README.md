@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
