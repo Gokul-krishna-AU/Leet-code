@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
