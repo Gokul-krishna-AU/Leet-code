@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0217-contains-duplicate) |
@@ -18,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0125-valid-palindrome) |
 ## Hash Table
