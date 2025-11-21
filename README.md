@@ -24,6 +24,7 @@
 | [0027-remove-element](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0067-add-binary](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
