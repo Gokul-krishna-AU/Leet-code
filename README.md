@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0066-plus-one](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -30,11 +32,13 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
@@ -46,6 +50,7 @@
 | [0067-add-binary](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -83,4 +88,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gokul-krishna-AU/Leet-code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
